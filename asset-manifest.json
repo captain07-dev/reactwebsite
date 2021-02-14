@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/imritik/static/css/main.6fe2b0e9.chunk.css",
+    "main.js": "/imritik/static/js/main.bdf8cec8.chunk.js",
+    "main.js.map": "/imritik/static/js/main.bdf8cec8.chunk.js.map",
+    "runtime-main.js": "/imritik/static/js/runtime-main.b17945c3.js",
+    "runtime-main.js.map": "/imritik/static/js/runtime-main.b17945c3.js.map",
+    "static/css/2.150d169a.chunk.css": "/imritik/static/css/2.150d169a.chunk.css",
+    "static/js/2.6bb0541b.chunk.js": "/imritik/static/js/2.6bb0541b.chunk.js",
+    "static/js/2.6bb0541b.chunk.js.map": "/imritik/static/js/2.6bb0541b.chunk.js.map",
+    "index.html": "/imritik/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/imritik/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6fe2b0e9.chunk.css.map": "/imritik/static/css/main.6fe2b0e9.chunk.css.map",
+    "static/js/2.6bb0541b.chunk.js.LICENSE.txt": "/imritik/static/js/2.6bb0541b.chunk.js.LICENSE.txt",
+    "static/media/img1.3c8c4467.jpg": "/imritik/static/media/img1.3c8c4467.jpg",
+    "static/media/img2.d47e607d.jpg": "/imritik/static/media/img2.d47e607d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b17945c3.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.6bb0541b.chunk.js",
+    "static/css/main.6fe2b0e9.chunk.css",
+    "static/js/main.bdf8cec8.chunk.js"
+  ]
+}
